@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpsonsApp</string>
+    <string name="bart">Bartolomeo</string>
+    <string-array name="simpson_names">
+        <item>Bart</item>
+        <item>Lissa</item>
+    </string-array>
+</resources>
